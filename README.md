@@ -16,6 +16,7 @@ This report presents an analysis of synthetic beverage sales in Germany over the
 
 ---
 ## **1. Revenue Trends: Understanding Sales Performance**
+![revenue line chart](/images/revenue_trend.PNG)
 ### **Monthly Trends**
 - **Revenue peaks during holiday seasons** (August, October, and December), driven by events such as **Oktoberfest and Christmas**.
 - **Revenue declines in the months following peak seasons** (e.g., **September and February**), with **February 2023 showing the sharpest drop of €2.3M**.
@@ -30,6 +31,7 @@ This report presents an analysis of synthetic beverage sales in Germany over the
 
 ---
 ## **2. Sales by Region: Identifying Top-Performing Locations**
+![sales by region bar chart](/images/sales_by_region.PNG)
 - **B2B sales dominate**, generating **three times more revenue than B2C sales across all regions**.
 - **Hamburg and Hessen lead in sales for both B2B and B2C**.
 
@@ -40,6 +42,7 @@ This report presents an analysis of synthetic beverage sales in Germany over the
 
 ---
 ## **3. Sales by Product: Best-Sellers & Underperformers**
+![sales by product bar chart](/images/sales_by_product.PNG)
 - **Best-Selling Products**:
   - Veuve Clicquot & Moët & Chandon (**top performers by a wide margin**).
   - Followed by **Johnnie Walker, Jack Daniels, Tanqueray, Bacardi, and Havana Club**.
@@ -67,6 +70,7 @@ A **custom sales dashboard** has been created to track key metrics, including:
 - Filters for **date, region, product category, and customer type**.
 - Visualizations of **revenue trends, sales by region, and sales by product**.
 
+![sales dashboard](/images/final_sales_dashboard.PNG)
 🔗 **[Access the Sales Dashboard Here](https://public.tableau.com/app/profile/molo.munyansanga/viz/BeverageSalesDashboard_17428856043060/BeverageSalesDashboard)**
 
 ---
